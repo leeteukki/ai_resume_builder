@@ -1,0 +1,9 @@
+flask
+flask-cors
+gitpython
+crewai
+langchain
+langchain-community
+python-docx
+tiktoken
+requests
